@@ -2,3 +2,6 @@
 Demo for R course
 
 Code from a software carpentry course held at UCSF on July 15, 2017.
+
+
+We can also edit on local machine
